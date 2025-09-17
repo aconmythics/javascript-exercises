@@ -12,7 +12,5 @@ const fibonacci = function(a) {
     return ans;
 };
 
-fibonacci(4)
-
 // Do not edit below this line
 module.exports = fibonacci;
